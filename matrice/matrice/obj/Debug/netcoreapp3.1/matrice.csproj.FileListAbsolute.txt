@@ -1,0 +1,14 @@
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\matrice\matrice\bin\Debug\netcoreapp3.1\matrice.exe
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\matrice\matrice\bin\Debug\netcoreapp3.1\matrice.deps.json
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\matrice\matrice\bin\Debug\netcoreapp3.1\matrice.runtimeconfig.json
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\matrice\matrice\bin\Debug\netcoreapp3.1\matrice.runtimeconfig.dev.json
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\matrice\matrice\bin\Debug\netcoreapp3.1\matrice.dll
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\matrice\matrice\bin\Debug\netcoreapp3.1\matrice.pdb
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\matrice\matrice\obj\Debug\netcoreapp3.1\matrice.csproj.AssemblyReference.cache
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\matrice\matrice\obj\Debug\netcoreapp3.1\matrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\matrice\matrice\obj\Debug\netcoreapp3.1\matrice.AssemblyInfoInputs.cache
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\matrice\matrice\obj\Debug\netcoreapp3.1\matrice.AssemblyInfo.cs
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\matrice\matrice\obj\Debug\netcoreapp3.1\matrice.csproj.CoreCompileInputs.cache
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\matrice\matrice\obj\Debug\netcoreapp3.1\matrice.dll
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\matrice\matrice\obj\Debug\netcoreapp3.1\matrice.pdb
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\matrice\matrice\obj\Debug\netcoreapp3.1\matrice.genruntimeconfig.cache
