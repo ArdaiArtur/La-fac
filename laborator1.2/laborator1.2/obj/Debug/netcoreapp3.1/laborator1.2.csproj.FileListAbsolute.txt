@@ -1,0 +1,16 @@
+C:\Users\Arrtur\source\repos\laborator1.2\laborator1.2\bin\Debug\netcoreapp3.1\laborator1.2.exe
+C:\Users\Arrtur\source\repos\laborator1.2\laborator1.2\bin\Debug\netcoreapp3.1\laborator1.2.deps.json
+C:\Users\Arrtur\source\repos\laborator1.2\laborator1.2\bin\Debug\netcoreapp3.1\laborator1.2.runtimeconfig.json
+C:\Users\Arrtur\source\repos\laborator1.2\laborator1.2\bin\Debug\netcoreapp3.1\laborator1.2.runtimeconfig.dev.json
+C:\Users\Arrtur\source\repos\laborator1.2\laborator1.2\bin\Debug\netcoreapp3.1\laborator1.2.dll
+C:\Users\Arrtur\source\repos\laborator1.2\laborator1.2\bin\Debug\netcoreapp3.1\laborator1.2.pdb
+C:\Users\Arrtur\source\repos\laborator1.2\laborator1.2\obj\Debug\netcoreapp3.1\laborator1.2.csproj.AssemblyReference.cache
+C:\Users\Arrtur\source\repos\laborator1.2\laborator1.2\obj\Debug\netcoreapp3.1\laborator1._2.Simpelcalculator.resources
+C:\Users\Arrtur\source\repos\laborator1.2\laborator1.2\obj\Debug\netcoreapp3.1\laborator1.2.csproj.GenerateResource.cache
+C:\Users\Arrtur\source\repos\laborator1.2\laborator1.2\obj\Debug\netcoreapp3.1\laborator1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arrtur\source\repos\laborator1.2\laborator1.2\obj\Debug\netcoreapp3.1\laborator1.2.AssemblyInfoInputs.cache
+C:\Users\Arrtur\source\repos\laborator1.2\laborator1.2\obj\Debug\netcoreapp3.1\laborator1.2.AssemblyInfo.cs
+C:\Users\Arrtur\source\repos\laborator1.2\laborator1.2\obj\Debug\netcoreapp3.1\laborator1.2.csproj.CoreCompileInputs.cache
+C:\Users\Arrtur\source\repos\laborator1.2\laborator1.2\obj\Debug\netcoreapp3.1\laborator1.2.dll
+C:\Users\Arrtur\source\repos\laborator1.2\laborator1.2\obj\Debug\netcoreapp3.1\laborator1.2.pdb
+C:\Users\Arrtur\source\repos\laborator1.2\laborator1.2\obj\Debug\netcoreapp3.1\laborator1.2.genruntimeconfig.cache
