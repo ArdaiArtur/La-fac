@@ -1,0 +1,14 @@
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\weak2\weak2\bin\Debug\netcoreapp3.1\weak2.exe
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\weak2\weak2\bin\Debug\netcoreapp3.1\weak2.deps.json
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\weak2\weak2\bin\Debug\netcoreapp3.1\weak2.runtimeconfig.json
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\weak2\weak2\bin\Debug\netcoreapp3.1\weak2.runtimeconfig.dev.json
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\weak2\weak2\bin\Debug\netcoreapp3.1\weak2.dll
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\weak2\weak2\bin\Debug\netcoreapp3.1\weak2.pdb
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\weak2\weak2\obj\Debug\netcoreapp3.1\weak2.csproj.AssemblyReference.cache
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\weak2\weak2\obj\Debug\netcoreapp3.1\weak2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\weak2\weak2\obj\Debug\netcoreapp3.1\weak2.AssemblyInfoInputs.cache
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\weak2\weak2\obj\Debug\netcoreapp3.1\weak2.AssemblyInfo.cs
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\weak2\weak2\obj\Debug\netcoreapp3.1\weak2.csproj.CoreCompileInputs.cache
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\weak2\weak2\obj\Debug\netcoreapp3.1\weak2.dll
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\weak2\weak2\obj\Debug\netcoreapp3.1\weak2.pdb
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\weak2\weak2\obj\Debug\netcoreapp3.1\weak2.genruntimeconfig.cache
