@@ -1,0 +1,17 @@
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\laborator2\laborator2\bin\Debug\netcoreapp3.1\laborator2.exe
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\laborator2\laborator2\bin\Debug\netcoreapp3.1\laborator2.deps.json
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\laborator2\laborator2\bin\Debug\netcoreapp3.1\laborator2.runtimeconfig.json
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\laborator2\laborator2\bin\Debug\netcoreapp3.1\laborator2.runtimeconfig.dev.json
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\laborator2\laborator2\bin\Debug\netcoreapp3.1\laborator2.dll
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\laborator2\laborator2\bin\Debug\netcoreapp3.1\laborator2.pdb
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\laborator2\laborator2\obj\Debug\netcoreapp3.1\laborator2.csproj.AssemblyReference.cache
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\laborator2\laborator2\obj\Debug\netcoreapp3.1\laborator2.Popup.resources
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\laborator2\laborator2\obj\Debug\netcoreapp3.1\laborator2.csproj.GenerateResource.cache
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\laborator2\laborator2\obj\Debug\netcoreapp3.1\laborator2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\laborator2\laborator2\obj\Debug\netcoreapp3.1\laborator2.AssemblyInfoInputs.cache
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\laborator2\laborator2\obj\Debug\netcoreapp3.1\laborator2.AssemblyInfo.cs
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\laborator2\laborator2\obj\Debug\netcoreapp3.1\laborator2.csproj.CoreCompileInputs.cache
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\laborator2\laborator2\obj\Debug\netcoreapp3.1\laborator2.dll
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\laborator2\laborator2\obj\Debug\netcoreapp3.1\laborator2.pdb
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\laborator2\laborator2\obj\Debug\netcoreapp3.1\laborator2.genruntimeconfig.cache
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\laborator2\laborator2\obj\Debug\netcoreapp3.1\laborator2.upform.resources
