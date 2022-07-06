@@ -7,7 +7,7 @@ namespace ConsoleApplication14
 {
     public class Tube
     {
-        
+        int new;
         private int[] values;
         public Tube() 
         {
