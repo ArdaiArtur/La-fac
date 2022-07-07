@@ -1,0 +1,16 @@
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\s5\lectia4.2\lectia4.2\bin\Debug\netcoreapp3.1\lectia4.2.exe
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\s5\lectia4.2\lectia4.2\bin\Debug\netcoreapp3.1\lectia4.2.deps.json
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\s5\lectia4.2\lectia4.2\bin\Debug\netcoreapp3.1\lectia4.2.runtimeconfig.json
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\s5\lectia4.2\lectia4.2\bin\Debug\netcoreapp3.1\lectia4.2.runtimeconfig.dev.json
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\s5\lectia4.2\lectia4.2\bin\Debug\netcoreapp3.1\lectia4.2.dll
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\s5\lectia4.2\lectia4.2\bin\Debug\netcoreapp3.1\lectia4.2.pdb
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\s5\lectia4.2\lectia4.2\obj\Debug\netcoreapp3.1\lectia4.2.csproj.AssemblyReference.cache
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\s5\lectia4.2\lectia4.2\obj\Debug\netcoreapp3.1\lectia4._2.Form1.resources
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\s5\lectia4.2\lectia4.2\obj\Debug\netcoreapp3.1\lectia4.2.csproj.GenerateResource.cache
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\s5\lectia4.2\lectia4.2\obj\Debug\netcoreapp3.1\lectia4.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\s5\lectia4.2\lectia4.2\obj\Debug\netcoreapp3.1\lectia4.2.AssemblyInfoInputs.cache
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\s5\lectia4.2\lectia4.2\obj\Debug\netcoreapp3.1\lectia4.2.AssemblyInfo.cs
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\s5\lectia4.2\lectia4.2\obj\Debug\netcoreapp3.1\lectia4.2.csproj.CoreCompileInputs.cache
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\s5\lectia4.2\lectia4.2\obj\Debug\netcoreapp3.1\lectia4.2.dll
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\s5\lectia4.2\lectia4.2\obj\Debug\netcoreapp3.1\lectia4.2.pdb
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\s5\lectia4.2\lectia4.2\obj\Debug\netcoreapp3.1\lectia4.2.genruntimeconfig.cache
