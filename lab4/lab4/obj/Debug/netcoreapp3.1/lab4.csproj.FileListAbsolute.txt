@@ -1,0 +1,17 @@
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\s5\lab4\lab4\bin\Debug\netcoreapp3.1\lab4.exe
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\s5\lab4\lab4\bin\Debug\netcoreapp3.1\lab4.deps.json
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\s5\lab4\lab4\bin\Debug\netcoreapp3.1\lab4.runtimeconfig.json
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\s5\lab4\lab4\bin\Debug\netcoreapp3.1\lab4.runtimeconfig.dev.json
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\s5\lab4\lab4\bin\Debug\netcoreapp3.1\lab4.dll
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\s5\lab4\lab4\bin\Debug\netcoreapp3.1\lab4.pdb
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\s5\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.csproj.AssemblyReference.cache
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\s5\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.MainForm.resources
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\s5\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.Properties.Resources.resources
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\s5\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.csproj.GenerateResource.cache
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\s5\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\s5\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.AssemblyInfoInputs.cache
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\s5\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.AssemblyInfo.cs
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\s5\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.csproj.CoreCompileInputs.cache
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\s5\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.dll
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\s5\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.pdb
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\s5\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.genruntimeconfig.cache
