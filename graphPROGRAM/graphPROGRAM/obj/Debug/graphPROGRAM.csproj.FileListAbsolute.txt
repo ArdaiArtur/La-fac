@@ -1,0 +1,17 @@
+E:\Neagu Georgiana\graphPROGRAM\graphPROGRAM\bin\Debug\graphPROGRAM.exe
+E:\Neagu Georgiana\graphPROGRAM\graphPROGRAM\bin\Debug\graphPROGRAM.pdb
+E:\Neagu Georgiana\graphPROGRAM\graphPROGRAM\obj\Debug\graphPROGRAM.csprojResolveAssemblyReference.cache
+E:\Neagu Georgiana\graphPROGRAM\graphPROGRAM\obj\Debug\graphPROGRAM.Form1.resources
+E:\Neagu Georgiana\graphPROGRAM\graphPROGRAM\obj\Debug\graphPROGRAM.Properties.Resources.resources
+E:\Neagu Georgiana\graphPROGRAM\graphPROGRAM\obj\Debug\graphPROGRAM.csproj.GenerateResource.Cache
+E:\Neagu Georgiana\graphPROGRAM\graphPROGRAM\obj\Debug\graphPROGRAM.exe
+E:\Neagu Georgiana\graphPROGRAM\graphPROGRAM\obj\Debug\graphPROGRAM.pdb
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\s6\graphPROGRAM\graphPROGRAM\bin\Debug\graphPROGRAM.exe
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\s6\graphPROGRAM\graphPROGRAM\bin\Debug\graphPROGRAM.pdb
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\s6\graphPROGRAM\graphPROGRAM\obj\Debug\graphPROGRAM.csproj.AssemblyReference.cache
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\s6\graphPROGRAM\graphPROGRAM\obj\Debug\graphPROGRAM.Form1.resources
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\s6\graphPROGRAM\graphPROGRAM\obj\Debug\graphPROGRAM.Properties.Resources.resources
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\s6\graphPROGRAM\graphPROGRAM\obj\Debug\graphPROGRAM.csproj.GenerateResource.cache
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\s6\graphPROGRAM\graphPROGRAM\obj\Debug\graphPROGRAM.csproj.CoreCompileInputs.cache
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\s6\graphPROGRAM\graphPROGRAM\obj\Debug\graphPROGRAM.exe
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\s6\graphPROGRAM\graphPROGRAM\obj\Debug\graphPROGRAM.pdb
