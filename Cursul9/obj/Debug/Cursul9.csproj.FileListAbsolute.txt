@@ -1,0 +1,8 @@
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\s9\Cursul9\bin\Debug\data.in
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\s9\Cursul9\bin\Debug\Cursul9.exe.config
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\s9\Cursul9\bin\Debug\Cursul9.exe
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\s9\Cursul9\bin\Debug\Cursul9.pdb
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\s9\Cursul9\obj\Debug\Cursul9.csproj.AssemblyReference.cache
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\s9\Cursul9\obj\Debug\Cursul9.csproj.CoreCompileInputs.cache
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\s9\Cursul9\obj\Debug\Cursul9.exe
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\s9\Cursul9\obj\Debug\Cursul9.pdb
