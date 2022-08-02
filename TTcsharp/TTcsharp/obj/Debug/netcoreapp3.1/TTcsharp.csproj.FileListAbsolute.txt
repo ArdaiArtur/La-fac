@@ -1,0 +1,14 @@
+C:\Users\Arrtur\Desktop\a.info.2\TTcsharp\TTcsharp\obj\Debug\netcoreapp3.1\TTcsharp.csproj.AssemblyReference.cache
+C:\Users\Arrtur\Desktop\a.info.2\TTcsharp\TTcsharp\obj\Debug\netcoreapp3.1\TTcsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arrtur\Desktop\a.info.2\TTcsharp\TTcsharp\obj\Debug\netcoreapp3.1\TTcsharp.AssemblyInfoInputs.cache
+C:\Users\Arrtur\Desktop\a.info.2\TTcsharp\TTcsharp\obj\Debug\netcoreapp3.1\TTcsharp.AssemblyInfo.cs
+C:\Users\Arrtur\Desktop\a.info.2\TTcsharp\TTcsharp\obj\Debug\netcoreapp3.1\TTcsharp.csproj.CoreCompileInputs.cache
+C:\Users\Arrtur\Desktop\a.info.2\TTcsharp\TTcsharp\bin\Debug\netcoreapp3.1\TTcsharp.exe
+C:\Users\Arrtur\Desktop\a.info.2\TTcsharp\TTcsharp\bin\Debug\netcoreapp3.1\TTcsharp.deps.json
+C:\Users\Arrtur\Desktop\a.info.2\TTcsharp\TTcsharp\bin\Debug\netcoreapp3.1\TTcsharp.runtimeconfig.json
+C:\Users\Arrtur\Desktop\a.info.2\TTcsharp\TTcsharp\bin\Debug\netcoreapp3.1\TTcsharp.runtimeconfig.dev.json
+C:\Users\Arrtur\Desktop\a.info.2\TTcsharp\TTcsharp\bin\Debug\netcoreapp3.1\TTcsharp.dll
+C:\Users\Arrtur\Desktop\a.info.2\TTcsharp\TTcsharp\bin\Debug\netcoreapp3.1\TTcsharp.pdb
+C:\Users\Arrtur\Desktop\a.info.2\TTcsharp\TTcsharp\obj\Debug\netcoreapp3.1\TTcsharp.dll
+C:\Users\Arrtur\Desktop\a.info.2\TTcsharp\TTcsharp\obj\Debug\netcoreapp3.1\TTcsharp.pdb
+C:\Users\Arrtur\Desktop\a.info.2\TTcsharp\TTcsharp\obj\Debug\netcoreapp3.1\TTcsharp.genruntimeconfig.cache
