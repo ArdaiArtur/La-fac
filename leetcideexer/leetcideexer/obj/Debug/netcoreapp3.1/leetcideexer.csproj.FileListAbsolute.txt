@@ -1,0 +1,14 @@
+C:\Users\Arrtur\Desktop\a.info.2\LEETCODE SRUFF\leetcideexer\leetcideexer\bin\Debug\netcoreapp3.1\leetcideexer.exe
+C:\Users\Arrtur\Desktop\a.info.2\LEETCODE SRUFF\leetcideexer\leetcideexer\bin\Debug\netcoreapp3.1\leetcideexer.deps.json
+C:\Users\Arrtur\Desktop\a.info.2\LEETCODE SRUFF\leetcideexer\leetcideexer\bin\Debug\netcoreapp3.1\leetcideexer.runtimeconfig.json
+C:\Users\Arrtur\Desktop\a.info.2\LEETCODE SRUFF\leetcideexer\leetcideexer\bin\Debug\netcoreapp3.1\leetcideexer.runtimeconfig.dev.json
+C:\Users\Arrtur\Desktop\a.info.2\LEETCODE SRUFF\leetcideexer\leetcideexer\bin\Debug\netcoreapp3.1\leetcideexer.dll
+C:\Users\Arrtur\Desktop\a.info.2\LEETCODE SRUFF\leetcideexer\leetcideexer\bin\Debug\netcoreapp3.1\leetcideexer.pdb
+C:\Users\Arrtur\Desktop\a.info.2\LEETCODE SRUFF\leetcideexer\leetcideexer\obj\Debug\netcoreapp3.1\leetcideexer.csproj.AssemblyReference.cache
+C:\Users\Arrtur\Desktop\a.info.2\LEETCODE SRUFF\leetcideexer\leetcideexer\obj\Debug\netcoreapp3.1\leetcideexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arrtur\Desktop\a.info.2\LEETCODE SRUFF\leetcideexer\leetcideexer\obj\Debug\netcoreapp3.1\leetcideexer.AssemblyInfoInputs.cache
+C:\Users\Arrtur\Desktop\a.info.2\LEETCODE SRUFF\leetcideexer\leetcideexer\obj\Debug\netcoreapp3.1\leetcideexer.AssemblyInfo.cs
+C:\Users\Arrtur\Desktop\a.info.2\LEETCODE SRUFF\leetcideexer\leetcideexer\obj\Debug\netcoreapp3.1\leetcideexer.csproj.CoreCompileInputs.cache
+C:\Users\Arrtur\Desktop\a.info.2\LEETCODE SRUFF\leetcideexer\leetcideexer\obj\Debug\netcoreapp3.1\leetcideexer.dll
+C:\Users\Arrtur\Desktop\a.info.2\LEETCODE SRUFF\leetcideexer\leetcideexer\obj\Debug\netcoreapp3.1\leetcideexer.pdb
+C:\Users\Arrtur\Desktop\a.info.2\LEETCODE SRUFF\leetcideexer\leetcideexer\obj\Debug\netcoreapp3.1\leetcideexer.genruntimeconfig.cache
