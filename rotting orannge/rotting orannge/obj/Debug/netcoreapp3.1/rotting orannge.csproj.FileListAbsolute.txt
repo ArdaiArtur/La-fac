@@ -1,0 +1,14 @@
+C:\Users\Arrtur\Desktop\a.info.2\LEETCODE SRUFF\rotting orannge\rotting orannge\bin\Debug\netcoreapp3.1\rotting orannge.exe
+C:\Users\Arrtur\Desktop\a.info.2\LEETCODE SRUFF\rotting orannge\rotting orannge\bin\Debug\netcoreapp3.1\rotting orannge.deps.json
+C:\Users\Arrtur\Desktop\a.info.2\LEETCODE SRUFF\rotting orannge\rotting orannge\bin\Debug\netcoreapp3.1\rotting orannge.runtimeconfig.json
+C:\Users\Arrtur\Desktop\a.info.2\LEETCODE SRUFF\rotting orannge\rotting orannge\bin\Debug\netcoreapp3.1\rotting orannge.runtimeconfig.dev.json
+C:\Users\Arrtur\Desktop\a.info.2\LEETCODE SRUFF\rotting orannge\rotting orannge\bin\Debug\netcoreapp3.1\rotting orannge.dll
+C:\Users\Arrtur\Desktop\a.info.2\LEETCODE SRUFF\rotting orannge\rotting orannge\bin\Debug\netcoreapp3.1\rotting orannge.pdb
+C:\Users\Arrtur\Desktop\a.info.2\LEETCODE SRUFF\rotting orannge\rotting orannge\obj\Debug\netcoreapp3.1\rotting orannge.csproj.AssemblyReference.cache
+C:\Users\Arrtur\Desktop\a.info.2\LEETCODE SRUFF\rotting orannge\rotting orannge\obj\Debug\netcoreapp3.1\rotting orannge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arrtur\Desktop\a.info.2\LEETCODE SRUFF\rotting orannge\rotting orannge\obj\Debug\netcoreapp3.1\rotting orannge.AssemblyInfoInputs.cache
+C:\Users\Arrtur\Desktop\a.info.2\LEETCODE SRUFF\rotting orannge\rotting orannge\obj\Debug\netcoreapp3.1\rotting orannge.AssemblyInfo.cs
+C:\Users\Arrtur\Desktop\a.info.2\LEETCODE SRUFF\rotting orannge\rotting orannge\obj\Debug\netcoreapp3.1\rotting orannge.csproj.CoreCompileInputs.cache
+C:\Users\Arrtur\Desktop\a.info.2\LEETCODE SRUFF\rotting orannge\rotting orannge\obj\Debug\netcoreapp3.1\rotting orannge.dll
+C:\Users\Arrtur\Desktop\a.info.2\LEETCODE SRUFF\rotting orannge\rotting orannge\obj\Debug\netcoreapp3.1\rotting orannge.pdb
+C:\Users\Arrtur\Desktop\a.info.2\LEETCODE SRUFF\rotting orannge\rotting orannge\obj\Debug\netcoreapp3.1\rotting orannge.genruntimeconfig.cache
