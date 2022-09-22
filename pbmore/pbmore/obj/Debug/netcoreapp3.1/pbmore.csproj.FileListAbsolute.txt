@@ -1,0 +1,14 @@
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\pbmore\pbmore\bin\Debug\netcoreapp3.1\pbmore.exe
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\pbmore\pbmore\bin\Debug\netcoreapp3.1\pbmore.deps.json
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\pbmore\pbmore\bin\Debug\netcoreapp3.1\pbmore.runtimeconfig.json
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\pbmore\pbmore\bin\Debug\netcoreapp3.1\pbmore.runtimeconfig.dev.json
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\pbmore\pbmore\bin\Debug\netcoreapp3.1\pbmore.dll
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\pbmore\pbmore\bin\Debug\netcoreapp3.1\pbmore.pdb
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\pbmore\pbmore\obj\Debug\netcoreapp3.1\pbmore.csproj.AssemblyReference.cache
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\pbmore\pbmore\obj\Debug\netcoreapp3.1\pbmore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\pbmore\pbmore\obj\Debug\netcoreapp3.1\pbmore.AssemblyInfoInputs.cache
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\pbmore\pbmore\obj\Debug\netcoreapp3.1\pbmore.AssemblyInfo.cs
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\pbmore\pbmore\obj\Debug\netcoreapp3.1\pbmore.csproj.CoreCompileInputs.cache
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\pbmore\pbmore\obj\Debug\netcoreapp3.1\pbmore.dll
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\pbmore\pbmore\obj\Debug\netcoreapp3.1\pbmore.pdb
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\pbmore\pbmore\obj\Debug\netcoreapp3.1\pbmore.genruntimeconfig.cache
