@@ -1,0 +1,17 @@
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\temaeu\temaeu\bin\Debug\netcoreapp3.1\temaeu.exe
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\temaeu\temaeu\bin\Debug\netcoreapp3.1\temaeu.deps.json
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\temaeu\temaeu\bin\Debug\netcoreapp3.1\temaeu.runtimeconfig.json
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\temaeu\temaeu\bin\Debug\netcoreapp3.1\temaeu.runtimeconfig.dev.json
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\temaeu\temaeu\bin\Debug\netcoreapp3.1\temaeu.dll
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\temaeu\temaeu\bin\Debug\netcoreapp3.1\temaeu.pdb
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\temaeu\temaeu\obj\Debug\netcoreapp3.1\temaeu.csproj.AssemblyReference.cache
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\temaeu\temaeu\obj\Debug\netcoreapp3.1\temaeu.Form1.resources
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\temaeu\temaeu\obj\Debug\netcoreapp3.1\temaeu.Properties.Resources.resources
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\temaeu\temaeu\obj\Debug\netcoreapp3.1\temaeu.csproj.GenerateResource.cache
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\temaeu\temaeu\obj\Debug\netcoreapp3.1\temaeu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\temaeu\temaeu\obj\Debug\netcoreapp3.1\temaeu.AssemblyInfoInputs.cache
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\temaeu\temaeu\obj\Debug\netcoreapp3.1\temaeu.AssemblyInfo.cs
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\temaeu\temaeu\obj\Debug\netcoreapp3.1\temaeu.csproj.CoreCompileInputs.cache
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\temaeu\temaeu\obj\Debug\netcoreapp3.1\temaeu.dll
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\temaeu\temaeu\obj\Debug\netcoreapp3.1\temaeu.pdb
+C:\Users\Arrtur\OneDrive\Desktop\a.info.2\temaeu\temaeu\obj\Debug\netcoreapp3.1\temaeu.genruntimeconfig.cache

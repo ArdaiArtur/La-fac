@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2m7Wdxwsa5d0VJ6HGpOOlhrYnXCi9QCQgURAO4Gh+0togMVbIkwFroyqB53FWvLKVelOYS+WSNWjivM05/ORsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Arrtur\\Desktop\\a.info.2\\plus\\temaeu\\temaeu\\temaeu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arrtur\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
